@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Full URL to your subdomain's sitemap
-Sitemap: 
+Sitemap: https://voice-eight-phi.vercel.app/sitemap.xml
